@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type" : "minecraft:model",
+    "model": "brax-mod:item/auto_rod"
+  }
+}
